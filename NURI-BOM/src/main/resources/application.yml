@@ -37,7 +37,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     hikari:
       username: nuribom
-      password: ajrqnfla303
+      password: 
 
   # swagger 설정
   mvc:
@@ -51,10 +51,10 @@ token:
 
 api-key:
   weather-rest-api: nuh0BPELXbUkTStC9OTm9Lls5pNt57OSPLalavN784TOwPRzg9BD8YNB8CM1XYqil0HKP2KsJbIP/RmLHgVmTg==
-  naver-cloud-sms-access-key: 1VKVFUgNVSl0xjKJxlvi
-  naver-cloud-sms-secret-key: L4y3VpqQlQ1GgjvujoluAZ3gYPfywzJXfFKCIhjb
-  naver-cloud-sms-service-id: ncp:sms:kr:295951992846:nuribom
-  naver-cloud-sms-sender-phone: 01090646710
+  naver-cloud-sms-access-key: 
+  naver-cloud-sms-secret-key: 
+  naver-cloud-sms-service-id: 
+  naver-cloud-sms-sender-phone: 
 
 logging:
   level:
